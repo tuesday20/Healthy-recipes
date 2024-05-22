@@ -9,6 +9,7 @@ height: 150px;
 }
 .ingredients {
 list-style: square;
+  color: lightblue;
 }
 .time {
   color: grey;
